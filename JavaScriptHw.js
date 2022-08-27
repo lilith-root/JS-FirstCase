@@ -7,7 +7,6 @@ while (number > 0) {
     number = Math.floor(number / 10);
 
 
-
     function isoddOrEvenish(number){
         if (sum % 2 == 0) {
             console.log("Even");
