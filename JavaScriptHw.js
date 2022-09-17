@@ -1,4 +1,4 @@
-number = prompt("Please enter a number :");
+let number = prompt("Please enter a number :");
 let sum = 0;
 
 
